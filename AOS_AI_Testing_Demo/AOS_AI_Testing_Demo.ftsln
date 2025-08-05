@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "AOS_UFT_AI_Demo", "AOS_UFT_AI_Demo\Test.tsp", "62AE721A-DE2C-4674-8D21-49EF201E6EFA"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT_Tests\AOS_AI_Testing_Demo\AOS_UFT_AI_Demo\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		62AE721A-DE2C-4674-8D21-49EF201E6EFA.Debug|Any CPU.Build.0 = Debug|Any CPU
+		62AE721A-DE2C-4674-8D21-49EF201E6EFA.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		62AE721A-DE2C-4674-8D21-49EF201E6EFA.Release|Any CPU.Build.0 = Release|Any CPU
+		62AE721A-DE2C-4674-8D21-49EF201E6EFA.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

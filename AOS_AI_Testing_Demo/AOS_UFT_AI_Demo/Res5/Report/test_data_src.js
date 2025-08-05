@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\UFT_Tests\\AOS_AI_Testing_Demo\\AOS_UFT_AI_Demo\\Res5',namePairs:[]}]};

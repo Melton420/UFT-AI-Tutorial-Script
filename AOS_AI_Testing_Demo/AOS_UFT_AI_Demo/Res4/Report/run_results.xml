@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="User">
+<Data>
+    <Name>&lt;style&gt;.AI-transformation-step-name {color:blue; font-weight: bold;}body.theme-dark .AI-transformation-step-name {color:white}.AI-transformation-step-details {color:blue;}body.theme-dark .AI-transformation-step-details {color:white}.AI-transformation-to-name {color:blue;}body.theme-dark .AI-transformation-to-name {color:white}.AI-transformation-success {color:green}.AI-transformation-error {color:orange};&lt;/style&gt;&lt;b&gt;Overview&lt;/b&gt;</Name>
+    <Description>&lt;span class='AI-transformation-step-details'&gt;This report provides suggestions that you can use to transform technology-based test steps to AI-based testing steps.&lt;br&gt;The report suggests an AI object and operation for any step where a property-based test object can be replaced with an AI object.&lt;br&gt;&lt;br&gt;This report is located in C:\UFT_Tests\AOS_AI_Testing_Demo\AOS_UFT_AI_Demo\Res4.&lt;br&gt;&lt;br&gt;All screenshots are stored in C:\Users\demo\AppData\Local\Temp\1.&lt;br&gt;&lt;br&gt;We are constantly enhancing the AI model. To contribute to this endeavor, you can share this report to &lt;a href='mailto:FTAIDPP@microfocus.com'&gt;FTAIDPP@microfocus.com&lt;/a&gt;&lt;/span&gt;</Description>
+    <StartTime>2025-01-08 04:34:54</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>d90a61a801ed4a24b1502e757d03f7a5</IconKey>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Login</Name>
+    <Description />
+    <StartTime>2025-01-08 04:34:57</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>25ceb27ba0004c309bfc02cb24e46b26</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>SelectLaptop</Name>
+    <Description />
+    <StartTime>2025-01-08 04:35:13</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>25ceb27ba0004c309bfc02cb24e46b26</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>Checkout</Name>
+    <Description />
+    <StartTime>2025-01-08 04:36:01</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>25ceb27ba0004c309bfc02cb24e46b26</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>Logout</Name>
+    <Description />
+    <StartTime>2025-01-08 04:36:20</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>25ceb27ba0004c309bfc02cb24e46b26</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2025-01-08 04:34:54</StartTime>
+    <Duration>137</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>ab3281080e5b43caa4e982f7aefce82c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Google Chrome</Name>
+        <Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path>
+        <Version>131.0</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>http://nimbusserver.aos.com:8000/#/</Info>
+          <Info />
+          <Info />
+          <Info />
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>AOS_UFT_AI_Demo</Name>
+    <ToolName>OpenText Functional Testing</ToolName>
+    <ToolVersion>24.4</ToolVersion>
+    <ToolVersionStringLiteral>24.4</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2025-01-08 04:34:51</StartTime>
+    <Duration>140</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <ParallelRunnerEnvInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ID />
+        <Manufacturer />
+        <Model />
+        <OsType />
+        <OsVersion />
+        <DesktopBrowser>Google Chrome</DesktopBrowser>
+        <ErrorMessage />
+      </ParallelRunnerEnvInfo>
+      <IconKey>7eabd87d479948718724e07bb33fddb4</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>00:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>demo</User>
+      <CpuInfo>Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>8191</TotalMemory>
+      <HostName>NIMBUSCLIENT</HostName>
+      <OSInfo>Windows Server 2019 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res4</ResultName>
+    <RunStartTime>2025-01-08 04:34:51</RunStartTime>
+    <Timezone>00:00:00</Timezone>
+    <OrchestrationToolName>OpenText Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>24.4</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>24.4</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
